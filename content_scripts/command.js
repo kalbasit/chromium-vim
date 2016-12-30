@@ -1,3 +1,4 @@
+var RCParser = require('./cvimrc_parser');
 var Command = {};
 var settings, sessions;
 

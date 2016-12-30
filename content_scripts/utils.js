@@ -1,3 +1,5 @@
+var RCParser = require('./cvimrc_parser');
+
 LOG = console.log.bind(console);
 
 var definePrototype = function(obj, name, fn) {

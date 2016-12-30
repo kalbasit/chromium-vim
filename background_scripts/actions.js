@@ -1,3 +1,4 @@
+var RCParser = require('../content_scripts/cvimrc_parser');
 var Quickmarks = {};
 
 Actions = (function() {
